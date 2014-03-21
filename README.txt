@@ -1,3 +1,10 @@
+PROJECT: SF Food Trucks
+TRACK: Full
+Tech Choices: Java/Maven for core functionality (familiar); Jax-RS/Jersey server (First time using); Heroku/Git hosting and version control (still inexperienced, need work)
+Trade-offs: Java applet as front-end instead of web client. Detailed below
+Other Work: https://github.com/csmooth/Jars
+
+
 FoodFinder is a application that queries data.sfgov.org as well as Google Maps in order to find the food trucks nearby a given
 location. The current client is a runnable jar file which has all the necessary package elements included. The application allows you
 to enter in either an address or latitude/longitude coordinates and outputs a list of nearby food trucks.  The back end includes 
